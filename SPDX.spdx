@@ -1,0 +1,6 @@
+SPDXVersion: SPDX-2.1
+PackageName: Tortis
+PackageHomePage: https://github.com/mit-ll/tortis/
+PackageOriginator: MIT Lincoln Laboratory
+PackageCopyrightText:2021 Massachusetts Institute of Technology
+PackageLicenseDeclared: MIT
