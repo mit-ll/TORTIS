@@ -61,7 +61,7 @@ target/debug/deps/$filename-$hash.mir
 
 Please see our [Documentation] file.
 
-[Documentation]: https://github.com/mit-ll/TORTIS/DOCUMENTATION.md
+[Documentation]: https://github.com/mit-ll/TORTIS/blob/main/DOCUMENTATION.md
 
 # STANDARD RUST DOCUMENTATION
 
