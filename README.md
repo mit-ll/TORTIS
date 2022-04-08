@@ -1,5 +1,9 @@
 # TORTIS
 
+![image](logo.svg)
+
+[![DOI](https://zenodo.org/badge/419032705.svg)](https://zenodo.org/badge/latestdoi/419032705)
+
 TORTIS is an extension of Rust that adds functionality for real-time software transactional memory without retries. TORTIS extends the Rust compiler to recognize the “transaction” key word, and provides automatic synchronization of shared objects within transactions.  To do so, it extends the Rust type system to include TxPointer and TxCell types which wrap shared objects. An additional pass is added to the compiler to determine what shared objects are used within a transaction, and emit calls to the runtime locking library that TORTIS provides.  The runtime library is modular and supports many different synchronization primitives.  Currently, a phase-fair reader-writer lock is used.  
 
 The main source code repository for [Rust] contains the compiler, standard library, and documentation.
