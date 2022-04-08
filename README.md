@@ -23,10 +23,10 @@ TORTIS is an extension of [Rust] that adds functionality for real-time software 
 
 [Rust]: https://www.rust-lang.org
 
-To get started using TORTIS, see our [Getting Started Guide](GettingStarted).
+To get started using TORTIS, see our [Getting Started Guide](GettingStarted.md).
 Because TORTIS is an extension of the Rust compiler, also reference the [Rust
-README](RustREADME). For additional TORTIS documentation see our
-[Documentation](Documentation).
+README](RustREADME.md). For additional TORTIS documentation see our
+[Documentation](Documentation.md).
 
 ## Contributing
 
