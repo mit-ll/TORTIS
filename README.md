@@ -1,5 +1,3 @@
-[![DOI](https://zenodo.org/badge/419032705.svg)](https://zenodo.org/badge/latestdoi/419032705)
-
 # TORTIS
 
 ![image](logo.svg)
