@@ -1,8 +1,9 @@
-# Contributing to Rust
-[contributing-to-rust]: #contributing-to-rust
+# Contributing to TORTIS
+[contributing-to-tortis]: #contributing-to-tortis
 
-Thank you for your interest in contributing to Rust! There are many ways to
-contribute, and we appreciate all of them. This document is a bit long, so here's
+Thank you for your interest in contributing to TORTIS! We note that TORTIS is an extension of Rust, so the means of contributing to TORTIS are quite similar. We've included documentation on contributing to Rust below, and recommend that similar methodologies be applied to contributing to TORTIS. Thanks for your contributions!
+
+This document is a bit long, so here's
 links to the major sections:
 
 * [Feature Requests](#feature-requests)
